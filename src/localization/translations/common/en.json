@@ -1,0 +1,14 @@
+{
+  "name": "Name {{name2}}",
+  "userName": "User Name",
+  "title": "Title",
+  "لوازم جانبی": "External Supplies",
+  "تبلت": "tablet",
+  "password": "Password",
+  "login": {
+    "login": "Login"
+  },
+  "footer": {
+    "contactUs": "Contact Us"
+  }
+}
